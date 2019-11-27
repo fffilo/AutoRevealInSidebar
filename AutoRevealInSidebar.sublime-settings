@@ -1,0 +1,8 @@
+// As always, please edit User/AutoRevealInSidebar.sublime-settings rather than this file.
+{
+	// Simple enable/disable plugin
+	"plugin_enabled": true,
+
+	// Force open hidden sidebar on reveal
+	"force_open_sidebar": false,
+}
