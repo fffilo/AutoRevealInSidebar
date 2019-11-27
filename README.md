@@ -1,1 +1,3 @@
 # AutoRevealInSidebar
+
+Reveal current file in sidebar on tab change...
